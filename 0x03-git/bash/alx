@@ -1,0 +1,7 @@
+#!/bin/bash
+echo "ALX"
+^C
+root@574ac76fdf20:~/alx-zero_day/0x03-git/bash# cat > school
+#!/bin/bash
+echo "School"
+root@574ac76fdf20:~/alx-zero_day/0x03-git/bash# git add .
